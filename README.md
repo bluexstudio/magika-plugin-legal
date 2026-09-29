@@ -8,4 +8,7 @@ Public legal, privacy, documentation, and support resources for JetBrains Market
 - [Changelog Pilot Documentation](Changelog-Pilot-DOCUMENTATION.md)
 - [Changelog Pilot EULA](Changelog-Pilot-EULA.md)
 - [Changelog Pilot Privacy Notice](Changelog-Pilot-PRIVACY.md)
+- [Diff Notes Documentation](Diff-Notes-DOCUMENTATION.md)
+- [Diff Notes EULA](Diff-Notes-EULA.md)
+- [Diff Notes Privacy Notice](Diff-Notes-PRIVACY.md)
 - [Support](SUPPORT.md)
